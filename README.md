@@ -5,7 +5,7 @@ This project involves cleaning the [Human Activity Recognition Using Smartphones
 ## Contents
 
 File | description | Link
------|------------
+-----|------------|---
 run_analysis.R |Main script that runs analysis on dataset| [link](https://github.com/Naadborole/DataCleaningProject/blob/master/run_analysis.R)
 TidyData.txt| Tidy dataset obtained after running script | [link](https://github.com/Naadborole/DataCleaningProject/blob/master/TidyData.txt)
 CodeBook.md|Code book describing variables| [link](https://github.com/Naadborole/DataCleaningProject/blob/master/CodeBook.md)
